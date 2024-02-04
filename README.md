@@ -1,2 +1,0 @@
-# HomeWorkQA
-Test
